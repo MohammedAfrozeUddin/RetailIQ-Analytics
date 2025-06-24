@@ -1,0 +1,11 @@
+Here's your `requirements.txt` for Python notebooks:
+
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+numpy==1.24.3
+
+Tools / Application:
+Microsoft Excel 
+SQL Server Management Studio
+Microsoft PowerBI
