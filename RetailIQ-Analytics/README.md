@@ -40,26 +40,34 @@ Retail IQ is a comprehensive data analytics project that transforms raw retail t
 ---
 
 ## 📁 Folder Structure
-
+```plaintext
 RetailIQ-Analytics/
 ├── assets/
-│ └── RetailIQ_Logo.png
-│ └── dashboard_screenshots/
+│   ├── RetailIQ_Logo.png
+│   └── dashboard_screenshots/
+│
 ├── data/
-│ └── cleaned_superstore.csv
+│   └── cleaned_superstore.csv
+│
 ├── excel/
-│ └── Executive_Summary_Dashboard.csv
+│   └── Executive_Summary_Dashboard.csv
+│
 ├── notebooks/
-│ └── 01_Data_Cleaning_EDA.ipynb
+│   └── 01_Data_Cleaning_EDA.ipynb
+│
 ├── powerbi/
-│ └── Retail IQ Dashboard.pdf
-│ └── Retail_Sales_Dashboard.pbix
+│   ├── Retail IQ Dashboard.pdf
+│   └── Retail_Sales_Dashboard.pbix
+│
 ├── sql/
-│ └── RetailIQ_SQL_Insights.sql
+│   └── RetailIQ_SQL_Insights.sql
+│
 ├── presentation/
-│ └── RetailIQ-Analytics.pptx
-|── README.md
-├── requirements.txt
+│   └── RetailIQ-Analytics.pptx
+│
+├── README.md
+└── requirements.txt
+```
 
 # 🚀 Retail IQ Dashboard Project
 
@@ -73,7 +81,7 @@ RetailIQ-Analytics/
 ## 📎 Links
 
 - 📊 [Power BI Dashboard (PDF Export)](powerbi/Retail%20IQ%20Dashboard.pdf)  
-- 💻 [Full Project on GitHub]()  
+- 💻 [Full Project on GitHub](https://github.com/MohammedAfrozeUddin/RetailIQ-Analytics/edit/main/RetailIQ-Analytics)  
 - 👨‍💼 [Project Pitch Deck (PPT)](presentation/RetailIQ-Analytics.pptx)  
 
 ## 👤 Author
