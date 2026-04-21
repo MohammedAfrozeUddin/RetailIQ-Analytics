@@ -17,6 +17,30 @@ Retail IQ is a comprehensive data analytics project that transforms raw retail t
 
 ---
 
+## 📈 Business Impact
+- Automated reporting workflow using Power BI, reducing dependency on manual Excel reports  
+- Enabled faster decision-making through real-time KPI dashboards  
+- Identified high-discount products impacting profit margins  
+- Highlighted top-performing regions contributing majority of revenue
+
+---
+
+## 📊 Key Insights
+- Technology category generated highest profit but varied across regions  
+- High discount levels negatively impacted overall profit margins  
+- West region contributed the largest share of revenue  
+- A small group of products contributed majority of total sales (Pareto effect)  
+- Consumer segment generated most orders but lower profit margins
+
+---
+
+## ⚠️ Challenges Faced
+- Handling missing and inconsistent data during preprocessing  
+- Writing optimized SQL queries for KPI calculations  
+- Designing efficient and responsive Power BI dashboards
+
+---
+
 ## 🛠️ Tools & Technologies
 
 | Tool        | Purpose                        |
